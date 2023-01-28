@@ -1,10 +1,6 @@
-/--------------------------------------------------\
-|                                                  |
-|                                                  |
-|       Ethereum Staking profit calculator         |
-|                                                  |
-|                                                  |
-\--------------------------------------------------/
+
+Ethereum Staking Profit Calculator
+
 
       Created by: Karolis Šimkus
 	  
@@ -14,6 +10,7 @@ Intructions on how to execute this code:
 	     Though this .cpp was compiled with C++ 20.
  Step 2. Add the code to your project and compile the .cpp. 
          Make sure the given header file is attached.
+	 
  
 Instructions on how to use the compiled executed console program:
  Step 1. You will see a small menu with three options.
