@@ -1,3 +1,10 @@
+# What this project is
+This was an exercise to test my programming knowledge by the company "Baltic Amadeus".
+I ended up getting accepted. Yay!
+
+## The project
+An Etherum Staking *Simplified* Calculator written in C++
+
 # Instructions
  ## Step 1.
 - To execute the example project press "1".
